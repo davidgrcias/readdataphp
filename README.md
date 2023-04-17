@@ -1,2 +1,0 @@
-# readdataphp
-readdataphp
